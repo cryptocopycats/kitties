@@ -28,7 +28,6 @@ id,gen,matron_id,sire_id,birthdate,genes,name
 
 Use the kitty command line tool from the free, open source copycats suite to
 read in all datafiles (`**/*.csv`) into an SQL database (e.g. `kitties.db` using SQLite).
-
 Example:
 
 ```
