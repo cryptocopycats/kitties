@@ -3,7 +3,15 @@
 Free open public domain data for cryptokitties and copycats in JSON incl. fancies, cattributes, trait types, traits, genes, and more - No API key required ;-)
 
 
-Example - All 12 Trait Types with 32 Traits - [`traits.json`](https://raw.githubusercontent.com/cryptocopycats/kittyverse.json/master/traits.json):
+[`traits.json`]()  •
+[`fancies.json`]()  •
+[`purrstiges.json`]() •
+
+
+
+## `traits.json`
+
+Example - All 12 Trait Types with 32 Traits - [`traits.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/traits.json):
 
 ``` json
 {
@@ -50,7 +58,10 @@ Example - All 12 Trait Types with 32 Traits - [`traits.json`](https://raw.github
  }
 ```
 
-Example - All Fancy Cats (Normal, Exclusive, Special Edition) with Trait Recipes, Max Limits, IDs, Time Windows, and More - [`fancies.json`](https://raw.githubusercontent.com/cryptocopycats/kittyverse.json/master/fancies.json):
+
+## `fancies.json`
+
+Example - All Fancy Cats (Normal, Exclusive, Special Edition) with Trait Recipes, Max Limits, IDs, Time Windows, and More - [`fancies.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/fancies.json):
 
 ``` json
 {
@@ -87,7 +98,10 @@ Example - All Fancy Cats (Normal, Exclusive, Special Edition) with Trait Recipes
 }
 ```
 
-Example - All Purrstige Cattributes with Trait Recipes, Time Windows, and More - [`purrstiges.json`](https://raw.githubusercontent.com/cryptocopycats/kittyverse.json/master/purrstiges.json):
+
+## `purrstiges.json`
+
+Example - All Purrstige Cattributes with Trait Recipes, Time Windows, and More - [`purrstiges.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/purrstiges.json):
 
 ``` json
 {
@@ -105,13 +119,14 @@ Example - All Purrstige Cattributes with Trait Recipes, Time Windows, and More -
 ```
 
 
+
 ## How to Use the Public JSON HTTP API (Micro) Web Service - No API Key Required ;-)
 
 Use the "raw" links served by GitHub (otherwise you get the complete "formatted" GitHub web page).
 Example:
 
 ```
-$ curl https://raw.githubusercontent.com/cryptocopycats/kittyverse.json/master/traits.json
+$ curl https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/traits.json
 ```
 
 
@@ -127,11 +142,6 @@ edit the JSON files but the source text files in the kittyverse repo** e.g.:
 
 
 
-## License
-
-![](https://publicdomainworks.github.io/buttons/zero88x31.png)
-
-The kittyverse.json schema & data are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
 
 
 ## Questions? Comments?

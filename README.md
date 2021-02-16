@@ -1,5 +1,11 @@
 # (Crypto) Kitties on the Blockchain
 
+
+
+## Datasets
+
+### `cryptokitties.csv`
+
 (Crypto) kitties dataset in comma-separated values (CSV) format
 in blocks of a thousand kitties each
 (e.g.
@@ -21,7 +27,22 @@ id,gen,matron_id,sire_id,birthdate,genes,name
 ...
 ```
 
-## Dataset Tools for Imports, Queries, Reports and More
+
+### `kittyverse.json`
+
+Datasets include:
+
+- [`traits.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/traits.json) - all 12 trait types with 32 traits
+- [`fancies.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/fancies.json) - all fancy cats (normal, exclusive, special edition) with trait recipes, max limits, IDs, time windows, and more
+- [`purrstiges.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/purrstiges.json) - all purrstige cattributes with trait recipes, time windows, and more
+
+
+For more see [`kittyverse.json` »](kittyverse.json)
+
+
+
+
+## Tools for Imports, Queries, Reports and More
 
 
 ### Copycats
