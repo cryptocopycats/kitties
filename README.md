@@ -76,11 +76,6 @@ Do you have a tool for the kitties dataset? Let us know! Add your tool here.
 
 
 
-## Questions? Comments?
-
-Post them on the [cryptokitties reddit](https://www.reddit.com/r/cryptokitties). Thanks.
-
-
 
 ## License
 
@@ -89,3 +84,9 @@ Post them on the [cryptokitties reddit](https://www.reddit.com/r/cryptokitties).
 The (crypto) kitties on the blockchain dataset
 is dedicated to the public domain.
 Use it as you please with no restrictions whatsoever.
+
+
+
+## Questions? Comments?
+
+Post them on the [cryptokitties reddit](https://www.reddit.com/r/cryptokitties). Thanks.

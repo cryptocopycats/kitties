@@ -5,7 +5,7 @@ Free open public domain data for cryptokitties and copycats in JSON incl. fancie
 
 [`traits.json`](#traitsjson)  •
 [`fancies.json`](#fanciesjson)  •
-[`purrstiges.json`](#purrstigesjson) •
+[`purrstiges.json`](#purrstigesjson)
 
 
 ## traits.json
