@@ -3,9 +3,11 @@
 Free open public domain data for cryptokitties and copycats in JSON incl. fancies, cattributes, trait types, traits, genes, and more - No API key required ;-)
 
 
-[`traits.json`](#traitsjson)  •
-[`fancies.json`](#fanciesjson)  •
-[`purrstiges.json`](#purrstigesjson)
+<!-- add - why? why not?
+[traits.json](#traitsjson)  •
+[fancies.json](#fanciesjson)  •
+[purrstiges.json](#purrstigesjson)
+-->
 
 
 ## traits.json
