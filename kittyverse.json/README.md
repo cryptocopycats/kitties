@@ -3,13 +3,12 @@
 Free open public domain data for cryptokitties and copycats in JSON incl. fancies, cattributes, trait types, traits, genes, and more - No API key required ;-)
 
 
-[`traits.json`]()  •
-[`fancies.json`]()  •
-[`purrstiges.json`]() •
+[`traits.json`](#traitsjson)  •
+[`fancies.json`](#fanciesjson)  •
+[`purrstiges.json`](#purrstigesjson) •
 
 
-
-## `traits.json`
+## traits.json
 
 Example - All 12 Trait Types with 32 Traits - [`traits.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/traits.json):
 
@@ -59,7 +58,7 @@ Example - All 12 Trait Types with 32 Traits - [`traits.json`](https://raw.github
 ```
 
 
-## `fancies.json`
+## fancies.json
 
 Example - All Fancy Cats (Normal, Exclusive, Special Edition) with Trait Recipes, Max Limits, IDs, Time Windows, and More - [`fancies.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/fancies.json):
 
@@ -99,7 +98,7 @@ Example - All Fancy Cats (Normal, Exclusive, Special Edition) with Trait Recipes
 ```
 
 
-## `purrstiges.json`
+## purrstiges.json
 
 Example - All Purrstige Cattributes with Trait Recipes, Time Windows, and More - [`purrstiges.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/purrstiges.json):
 

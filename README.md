@@ -4,7 +4,7 @@
 
 ## Datasets
 
-### `cryptokitties.csv`
+### cryptokitties.csv  - Kitties by ID with Gen(eration), Matron & Sire IDs, Birthdate, Genes, & More
 
 (Crypto) kitties dataset in comma-separated values (CSV) format
 in blocks of a thousand kitties each
@@ -28,7 +28,7 @@ id,gen,matron_id,sire_id,birthdate,genes,name
 ```
 
 
-### `kittyverse.json`
+### kittyverse.json  - All Traits and Trait Types, All Fancy Cats (Normal, Exclusive, Special Edition), All Purrstige Cattributes, & More
 
 Datasets include:
 
@@ -38,6 +38,8 @@ Datasets include:
 
 
 For more see [`kittyverse.json` »](kittyverse.json)
+
+
 
 
 
