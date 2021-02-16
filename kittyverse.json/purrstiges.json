@@ -1,0 +1,475 @@
+{
+  "bionic": {
+    "name": "Bionic",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU30"
+      ]
+    }
+  },
+  "fileshare": {
+    "name": "Fileshare",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU29"
+      ]
+    }
+  },
+  "pawsfree": {
+    "name": "Pawsfree",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU28"
+      ]
+    }
+  },
+  "uplink": {
+    "name": "Uplink",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU27"
+      ]
+    }
+  },
+  "gaunlet": {
+    "name": "Gauntlet",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU26"
+      ]
+    }
+  },
+  "catterypack": {
+    "name": "Catterypack",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU25"
+      ]
+    }
+  },
+  "squelch": {
+    "name": "Squelch",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU24"
+      ]
+    }
+  },
+  "scratchingpost": {
+    "name": "Scratchingpost",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 772,
+      "traits": [
+        "WE10",
+        "PU26"
+      ]
+    }
+  },
+  "hooked": {
+    "name": "Hooked",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 1277,
+      "traits": [
+        "WE10",
+        "PU27"
+      ]
+    }
+  },
+  "landlubber": {
+    "name": "Landlubber",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 711,
+      "traits": [
+        "WE10",
+        "PU29"
+      ]
+    }
+  },
+  "wrecked": {
+    "name": "Wrecked",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 959,
+      "traits": [
+        "EN00",
+        "PU26"
+      ]
+    }
+  },
+  "purrbados": {
+    "name": "Purrbados",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 1344,
+      "traits": [
+        "EN01",
+        "PU26"
+      ]
+    }
+  },
+  "timbers": {
+    "name": "Timbers",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 472,
+      "traits": [
+        "WE10",
+        "EN00",
+        "PU26"
+      ]
+    }
+  },
+  "maraud": {
+    "name": "Maraud",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 620,
+      "traits": [
+        "WE10",
+        "EN01",
+        "PU26"
+      ]
+    }
+  },
+  "oohshiny": {
+    "name": "Oohshiny",
+    "recipe": {
+      "time": {
+        "start": "2019-03-15",
+        "end": "2019-03-28"
+      },
+      "count": 2484,
+      "traits": [
+        "roadtogold",
+        "PU27"
+      ]
+    }
+  },
+  "dreamcloud": {
+    "name": "Dreamcloud",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 1246,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU24"
+      ]
+    }
+  },
+  "alpunka": {
+    "name": "Alpunka",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 926,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU28"
+      ]
+    }
+  },
+  "cindylou": {
+    "name": "Cindylou",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 905,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU30"
+      ]
+    }
+  },
+  "alpacacino": {
+    "name": "Alpacacino",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 1220,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU27"
+      ]
+    }
+  },
+  "beatlesque": {
+    "name": "Beatlesque",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 783,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU29"
+      ]
+    }
+  },
+  "huacool": {
+    "name": "Huacool",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 837,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU25"
+      ]
+    }
+  },
+  "inaband": {
+    "name": "Inaband",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 1048,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU26"
+      ]
+    }
+  },
+  "reindeer": {
+    "name": "Reindeer",
+    "recipe": {
+      "time": {
+        "start": "2018-12-14",
+        "end": "2019-01-07"
+      },
+      "count": 854,
+      "traits": [
+        "elk",
+        [
+          "PU24",
+          "PU25",
+          "PU26",
+          "PU27"
+        ]
+      ]
+    }
+  },
+  "holidaycheer": {
+    "name": "Holidaycheer",
+    "recipe": {
+      "time": {
+        "start": "2018-12-14",
+        "end": "2019-01-07"
+      },
+      "count": 759,
+      "traits": [
+        "elk",
+        [
+          "PU28",
+          "PU29"
+        ]
+      ]
+    }
+  },
+  "lit": {
+    "name": "Lit",
+    "recipe": {
+      "time": {
+        "start": "2018-12-14",
+        "end": "2019-01-07"
+      },
+      "count": 1006,
+      "traits": [
+        "elk",
+        "PU30"
+      ]
+    }
+  },
+  "thatsawrap": {
+    "name": "Thatsawrap",
+    "recipe": {
+      "time": {
+        "start": "2018-10-20",
+        "end": "2018-11-06"
+      },
+      "count": 615,
+      "traits": [
+        "bobtail",
+        "WE00",
+        "PU28"
+      ]
+    }
+  },
+  "duckduckcat": {
+    "name": "Duckduckcat",
+    "recipe": {
+      "time": {
+        "start": "2018-10-20",
+        "end": "2018-11-15"
+      },
+      "count": 1249,
+      "traits": [
+        "neckbeard",
+        [
+          "PU24",
+          "PU25",
+          "PU26"
+        ]
+      ]
+    }
+  },
+  "prune": {
+    "name": "Prune",
+    "recipe": {
+      "time": {
+        "start": "2018-09-18",
+        "end": "2018-09-30"
+      },
+      "count": 921,
+      "traits": [
+        "norwegianforest",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU25"
+      ]
+    }
+  },
+  "furball": {
+    "name": "Furball",
+    "recipe": {
+      "time": {
+        "start": "2018-09-19",
+        "end": "2018-09-30"
+      },
+      "count": 998,
+      "traits": [
+        "norwegianforest",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU26"
+      ]
+    }
+  }
+}
