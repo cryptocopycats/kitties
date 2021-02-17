@@ -86,7 +86,7 @@ and `./` for the data directory. To query use:
 $ kitty 1          # print kitty report (traits etc.) for kitty with id 1
 ```
 
-See the [Copycats page for more »](https://github.com/cryptocopycats/copycats#database-setup)
+For more see the [**copycats page »**](https://github.com/cryptocopycats/copycats#database-setup)
 
 
 
