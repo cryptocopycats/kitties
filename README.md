@@ -47,7 +47,7 @@ Total,  Description,  Type
 408249, totesbasic,   pattern
 ```
 
-For more see [`cattributes.csv` »](cattributes.csv)
+For more see [**cattributes.csv »**](cattributes.csv)
 
 
 
@@ -60,7 +60,7 @@ Datasets include:
 - [`purrstiges.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/purrstiges.json) - all purrstige cattributes with trait recipes, time windows, and more
 
 
-For more see [`kittyverse.json` »](kittyverse.json)
+For more see [**kittyverse.json »**](kittyverse.json)
 
 
 
