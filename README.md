@@ -27,6 +27,29 @@ id,gen,matron_id,sire_id,birthdate,genes,name
 ...
 ```
 
+### cattributes.csv  - All Cattributes (Incl. Purrstige) by Rarity & Popularity
+
+Cattributes dataset in comma-separated values (CSV) format.
+Example:
+
+```
+Total,  Description,  Type
+   120, purrior,      prestige
+   140, scout,        prestige
+   141, dominator,    prestige
+   144, centurion,    prestige
+   162, explorer,     prestige
+...
+255855, kittencream , colortertiary
+263531, happygokitty, mouth
+287510, pouty,        mouth
+309267, thicccbrowz,  eyes
+408249, totesbasic,   pattern
+```
+
+For more see [`cattributes.csv` »](cattributes.csv)
+
+
 
 ### kittyverse.json  - All Traits and Trait Types, All Fancy Cats (Normal, Exclusive, Special Edition), All Purrstige Cattributes, & More
 
@@ -38,8 +61,6 @@ Datasets include:
 
 
 For more see [`kittyverse.json` »](kittyverse.json)
-
-
 
 
 
