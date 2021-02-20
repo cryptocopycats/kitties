@@ -140,11 +140,11 @@ $ curl https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyvers
 Note: The JSON files get (auto-)generated using the kittyverse library and datasets, thus, **please do NOT
 edit the JSON files but the source text files in the kittyverse repo** e.g.:
 
-- Trait Types and Traits in [`/kittyverse/../traits.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/traits.rb)
-- Fancy Cats (Exclusives, Special Editions, etc.) in [`/kittyverse/../fancies.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/fancies.rb),
-[`exclusives.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/exclusives.rb),
-[`special_editions.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/special_editions.rb)
-- Purrstige Cattributes in [`/kittyverse/../purrstiges.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/purrstiges.rb)
+- Trait Types and Traits in [`/kittyverse/../traits.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/kittyverse/lib/kittyverse/config/traits.rb)
+- Fancy Cats (Exclusives, Special Editions, etc.) in [`/kittyverse/../fancies.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/kittyverse/lib/kittyverse/config/fancies.rb),
+[`exclusives.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/kittyverse/lib/kittyverse/config/exclusives.rb),
+[`special_editions.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/kittyverse/lib/kittyverse/config/special_editions.rb)
+- Purrstige Cattributes in [`/kittyverse/../purrstiges.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/kittyverse/lib/kittyverse/config/purrstiges.rb)
 
 
 
