@@ -1,236 +1,128 @@
 {
-  "bionic": {
-    "name": "Bionic",
+  "confettibox": {
+    "name": "Confettibox",
     "recipe": {
       "time": {
-        "start": "2019-05-01",
-        "end": "2019-08-31"
+        "start": "2020-01-01",
+        "end": "2020-01-15"
       },
+      "count": 554,
       "traits": [
-        "ragdoll",
-        "WE05",
+        "tinybox",
+        "PU26"
+      ]
+    }
+  },
+  "celebration": {
+    "name": "Celebration",
+    "recipe": {
+      "time": {
+        "start": "2019-12-01",
+        "end": "?"
+      },
+      "count": 1080,
+      "traits": [
         [
-          "Totesbasic 1",
-          "Totesbasic 2",
-          "Totesbasic 3"
+          "EN00",
+          "EN01",
+          "EN02",
+          "EN03",
+          "EN04",
+          "EN05",
+          "EN06",
+          "EN07",
+          "EN08",
+          "EN09",
+          "EN10",
+          "EN11",
+          "EN12",
+          "EN13",
+          "EN14",
+          "EN15"
+        ],
+        [
+          "PU16",
+          "PU17",
+          "PU18",
+          "PU19",
+          "PU20",
+          "PU21",
+          "PU22",
+          "PU23",
+          "PU24",
+          "PU25",
+          "PU26",
+          "PU27",
+          "PU28",
+          "PU29"
+        ]
+      ]
+    }
+  },
+  "grandfinale": {
+    "name": "Grandfinale",
+    "recipe": {
+      "time": {
+        "start": "2019-12-01",
+        "end": "?"
+      },
+      "count": 520,
+      "traits": [
+        [
+          "EN00",
+          "EN01",
+          "EN02",
+          "EN03",
+          "EN04",
+          "EN05",
+          "EN06",
+          "EN07",
+          "EN08",
+          "EN09",
+          "EN10",
+          "EN11",
+          "EN12",
+          "EN13",
+          "EN14",
+          "EN15"
         ],
         "PU30"
       ]
     }
   },
-  "fileshare": {
-    "name": "Fileshare",
+  "werekitty": {
+    "name": "Werekitty",
     "recipe": {
       "time": {
-        "start": "2019-05-01",
-        "end": "2019-08-31"
+        "start": "2019-06-28",
+        "end": "2019-07-27"
       },
+      "count": 438,
       "traits": [
-        "ragdoll",
-        "WE05",
+        "moonrise",
+        "littlefoot",
+        "PU24",
         [
-          "Totesbasic 1",
-          "Totesbasic 2",
-          "Totesbasic 3"
-        ],
-        "PU29"
+          "EN00",
+          "EN01",
+          "EN02",
+          "EN03",
+          "EN04",
+          "EN05",
+          "EN06",
+          "EN07",
+          "EN08",
+          "EN09",
+          "EN10",
+          "EN11",
+          "EN12",
+          "EN13",
+          "EN14",
+          "EN15"
+        ]
       ]
-    }
-  },
-  "pawsfree": {
-    "name": "Pawsfree",
-    "recipe": {
-      "time": {
-        "start": "2019-05-01",
-        "end": "2019-08-31"
-      },
-      "traits": [
-        "ragdoll",
-        "WE05",
-        [
-          "Totesbasic 1",
-          "Totesbasic 2",
-          "Totesbasic 3"
-        ],
-        "PU28"
-      ]
-    }
-  },
-  "uplink": {
-    "name": "Uplink",
-    "recipe": {
-      "time": {
-        "start": "2019-05-01",
-        "end": "2019-08-31"
-      },
-      "traits": [
-        "ragdoll",
-        "WE05",
-        [
-          "Totesbasic 1",
-          "Totesbasic 2",
-          "Totesbasic 3"
-        ],
-        "PU27"
-      ]
-    }
-  },
-  "gaunlet": {
-    "name": "Gauntlet",
-    "recipe": {
-      "time": {
-        "start": "2019-05-01",
-        "end": "2019-08-31"
-      },
-      "traits": [
-        "ragdoll",
-        "WE05",
-        [
-          "Totesbasic 1",
-          "Totesbasic 2",
-          "Totesbasic 3"
-        ],
-        "PU26"
-      ]
-    }
-  },
-  "catterypack": {
-    "name": "Catterypack",
-    "recipe": {
-      "time": {
-        "start": "2019-05-01",
-        "end": "2019-08-31"
-      },
-      "traits": [
-        "ragdoll",
-        "WE05",
-        [
-          "Totesbasic 1",
-          "Totesbasic 2",
-          "Totesbasic 3"
-        ],
-        "PU25"
-      ]
-    }
-  },
-  "squelch": {
-    "name": "Squelch",
-    "recipe": {
-      "time": {
-        "start": "2019-05-01",
-        "end": "2019-08-31"
-      },
-      "traits": [
-        "ragdoll",
-        "WE05",
-        [
-          "Totesbasic 1",
-          "Totesbasic 2",
-          "Totesbasic 3"
-        ],
-        "PU24"
-      ]
-    }
-  },
-  "scratchingpost": {
-    "name": "Scratchingpost",
-    "recipe": {
-      "time": {
-        "start": "2019-04-13",
-        "end": "2019-05-10"
-      },
-      "count": 772,
-      "traits": [
-        "WE10",
-        "PU26"
-      ]
-    }
-  },
-  "hooked": {
-    "name": "Hooked",
-    "recipe": {
-      "time": {
-        "start": "2019-04-13",
-        "end": "2019-05-10"
-      },
-      "count": 1277,
-      "traits": [
-        "WE10",
-        "PU27"
-      ]
-    }
-  },
-  "landlubber": {
-    "name": "Landlubber",
-    "recipe": {
-      "time": {
-        "start": "2019-04-13",
-        "end": "2019-05-10"
-      },
-      "count": 711,
-      "traits": [
-        "WE10",
-        "PU29"
-      ]
-    }
-  },
-  "wrecked": {
-    "name": "Wrecked",
-    "recipe": {
-      "time": {
-        "start": "2019-04-13",
-        "end": "2019-05-10"
-      },
-      "count": 959,
-      "traits": [
-        "EN00",
-        "PU26"
-      ]
-    }
-  },
-  "purrbados": {
-    "name": "Purrbados",
-    "recipe": {
-      "time": {
-        "start": "2019-04-13",
-        "end": "2019-05-10"
-      },
-      "count": 1344,
-      "traits": [
-        "EN01",
-        "PU26"
-      ]
-    }
-  },
-  "timbers": {
-    "name": "Timbers",
-    "recipe": {
-      "time": {
-        "start": "2019-04-13",
-        "end": "2019-05-10"
-      },
-      "count": 472,
-      "traits": [
-        "WE10",
-        "EN00",
-        "PU26"
-      ]
-    }
-  },
-  "maraud": {
-    "name": "Maraud",
-    "recipe": {
-      "time": {
-        "start": "2019-04-13",
-        "end": "2019-05-10"
-      },
-      "count": 620,
-      "traits": [
-        "WE10",
-        "EN01",
-        "PU26"
-      ]
-    }
+    },
+    "desc": "Monster Month Purrstige Trait"
   },
   "oohshiny": {
     "name": "Oohshiny",
@@ -243,111 +135,6 @@
       "traits": [
         "roadtogold",
         "PU27"
-      ]
-    }
-  },
-  "dreamcloud": {
-    "name": "Dreamcloud",
-    "recipe": {
-      "time": {
-        "start": "2019-02-22",
-        "end": "2019-03-25"
-      },
-      "count": 1246,
-      "traits": [
-        "munchkin",
-        "WE10",
-        "PU24"
-      ]
-    }
-  },
-  "alpunka": {
-    "name": "Alpunka",
-    "recipe": {
-      "time": {
-        "start": "2019-02-22",
-        "end": "2019-03-25"
-      },
-      "count": 926,
-      "traits": [
-        "munchkin",
-        "WE10",
-        "PU28"
-      ]
-    }
-  },
-  "cindylou": {
-    "name": "Cindylou",
-    "recipe": {
-      "time": {
-        "start": "2019-02-22",
-        "end": "2019-03-25"
-      },
-      "count": 905,
-      "traits": [
-        "munchkin",
-        "WE10",
-        "PU30"
-      ]
-    }
-  },
-  "alpacacino": {
-    "name": "Alpacacino",
-    "recipe": {
-      "time": {
-        "start": "2019-02-22",
-        "end": "2019-03-25"
-      },
-      "count": 1220,
-      "traits": [
-        "munchkin",
-        "WE10",
-        "PU27"
-      ]
-    }
-  },
-  "beatlesque": {
-    "name": "Beatlesque",
-    "recipe": {
-      "time": {
-        "start": "2019-02-22",
-        "end": "2019-03-25"
-      },
-      "count": 783,
-      "traits": [
-        "munchkin",
-        "WE10",
-        "PU29"
-      ]
-    }
-  },
-  "huacool": {
-    "name": "Huacool",
-    "recipe": {
-      "time": {
-        "start": "2019-02-22",
-        "end": "2019-03-25"
-      },
-      "count": 837,
-      "traits": [
-        "munchkin",
-        "WE10",
-        "PU25"
-      ]
-    }
-  },
-  "inaband": {
-    "name": "Inaband",
-    "recipe": {
-      "time": {
-        "start": "2019-02-22",
-        "end": "2019-03-25"
-      },
-      "count": 1048,
-      "traits": [
-        "munchkin",
-        "WE10",
-        "PU26"
       ]
     }
   },
@@ -469,6 +256,662 @@
           "Totesbasic 3"
         ],
         "PU26"
+      ]
+    }
+  },
+  "driver": {
+    "name": "Driver",
+    "recipe": {
+      "time": {
+        "start": "2019-12-12",
+        "end": "2019-12-13"
+      },
+      "count": 257,
+      "traits": [
+        "ragdoll",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        [
+          "WE00",
+          "WE01",
+          "WE02",
+          "WE03",
+          "WE04",
+          "WE05",
+          "WE06",
+          "WE07",
+          "WE08",
+          "WE09",
+          "WE10",
+          "WE11",
+          "WE12",
+          "WE13",
+          "WE14",
+          "WE15"
+        ],
+        "drift",
+        [
+          "PU24",
+          "PU25",
+          "PU26",
+          "PU27",
+          "PU28",
+          "PU29",
+          "PU30"
+        ]
+      ]
+    }
+  },
+  "bionic": {
+    "name": "Bionic",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "count": 624,
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU30"
+      ]
+    }
+  },
+  "fileshare": {
+    "name": "Fileshare",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "count": 683,
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU29"
+      ]
+    }
+  },
+  "pawsfree": {
+    "name": "Pawsfree",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "count": 430,
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU28"
+      ]
+    }
+  },
+  "uplink": {
+    "name": "Uplink",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "count": 1151,
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU27"
+      ]
+    }
+  },
+  "gaunlet": {
+    "name": "Gauntlet",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "count": 905,
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU26"
+      ]
+    }
+  },
+  "catterypack": {
+    "name": "Catterypack",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "count": 513,
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU25"
+      ]
+    }
+  },
+  "squelch": {
+    "name": "Squelch",
+    "recipe": {
+      "time": {
+        "start": "2019-05-01",
+        "end": "2019-08-31"
+      },
+      "count": 828,
+      "traits": [
+        "ragdoll",
+        "WE05",
+        [
+          "Totesbasic 1",
+          "Totesbasic 2",
+          "Totesbasic 3"
+        ],
+        "PU24"
+      ]
+    }
+  },
+  "scratchingpost": {
+    "name": "Scratchingpost",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 772,
+      "traits": [
+        "WE10",
+        "PU26"
+      ]
+    }
+  },
+  "hooked": {
+    "name": "Hooked",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 1277,
+      "traits": [
+        "WE10",
+        "PU27"
+      ]
+    }
+  },
+  "landlubber": {
+    "name": "Landlubber",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 711,
+      "traits": [
+        "WE10",
+        "PU29"
+      ]
+    }
+  },
+  "wrecked": {
+    "name": "Wrecked",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 959,
+      "traits": [
+        "EN00",
+        "PU26"
+      ]
+    }
+  },
+  "purrbados": {
+    "name": "Purrbados",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 1344,
+      "traits": [
+        "EN01",
+        "PU26"
+      ]
+    }
+  },
+  "timbers": {
+    "name": "Timbers",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 472,
+      "traits": [
+        "WE10",
+        "EN00",
+        "PU26"
+      ]
+    }
+  },
+  "maraud": {
+    "name": "Maraud",
+    "recipe": {
+      "time": {
+        "start": "2019-04-13",
+        "end": "2019-05-10"
+      },
+      "count": 620,
+      "traits": [
+        "WE10",
+        "EN01",
+        "PU26"
+      ]
+    }
+  },
+  "dreamcloud": {
+    "name": "Dreamcloud",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 1246,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU24"
+      ]
+    }
+  },
+  "alpunka": {
+    "name": "Alpunka",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 926,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU28"
+      ]
+    }
+  },
+  "cindylou": {
+    "name": "Cindylou",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 905,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU30"
+      ]
+    }
+  },
+  "alpacacino": {
+    "name": "Alpacacino",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 1220,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU27"
+      ]
+    }
+  },
+  "beatlesque": {
+    "name": "Beatlesque",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 783,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU29"
+      ]
+    }
+  },
+  "huacool": {
+    "name": "Huacool",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 837,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU25"
+      ]
+    }
+  },
+  "inaband": {
+    "name": "Inaband",
+    "recipe": {
+      "time": {
+        "start": "2019-02-22",
+        "end": "2019-03-25"
+      },
+      "count": 1048,
+      "traits": [
+        "munchkin",
+        "WE10",
+        "PU26"
+      ]
+    }
+  },
+  "purrior": {
+    "name": "Purrior",
+    "recipe": {
+      "time": {
+        "start": "2019-11-07",
+        "end": "2019-12-01"
+      },
+      "count": 120,
+      "traits": [
+
+      ]
+    }
+  },
+  "centurion": {
+    "name": "Centurion",
+    "recipe": {
+      "time": {
+        "start": "2019-11-06",
+        "end": "2019-12-01"
+      },
+      "count": 144,
+      "traits": [
+
+      ]
+    }
+  },
+  "explorer": {
+    "name": "Explorer",
+    "recipe": {
+      "time": {
+        "start": "2019-11-03",
+        "end": "2019-12-01"
+      },
+      "count": 162,
+      "traits": [
+        "lykoi",
+        "daemonhorns",
+        [
+          "rascal",
+          "camo"
+        ],
+        "PU28"
+      ]
+    }
+  },
+  "guard": {
+    "name": "Guard",
+    "recipe": {
+      "time": {
+        "start": "2019-11-02",
+        "end": "2019-12-01"
+      },
+      "count": 220,
+      "traits": [
+
+      ]
+    }
+  },
+  "velite": {
+    "name": "Velite",
+    "recipe": {
+      "time": {
+        "start": "2019-11-01",
+        "end": "2019-12-01"
+      },
+      "count": 273,
+      "traits": [
+
+      ]
+    }
+  },
+  "scout": {
+    "name": "Scout",
+    "recipe": {
+      "time": {
+        "start": "2019-11-01",
+        "end": "2019-12-01"
+      },
+      "count": 140,
+      "traits": [
+
+      ]
+    }
+  },
+  "dominator": {
+    "name": "Dominator",
+    "recipe": {
+      "time": {
+        "start": "2019-11-02",
+        "end": "2019-12-01"
+      },
+      "count": 141,
+      "traits": [
+        "lykoi",
+        "daemonhorns",
+        [
+          "PU24",
+          "PU25",
+          "PU26",
+          "PU27"
+        ]
+      ]
+    }
+  },
+  "brassard": {
+    "name": "Brassard",
+    "recipe": {
+      "time": {
+        "start": "2019-11-01",
+        "end": "2019-12-01"
+      },
+      "count": 793,
+      "traits": [
+        [
+          "WE00",
+          "WE01",
+          "WE02",
+          "WE03",
+          "WE04",
+          "WE05",
+          "WE06",
+          "WE07"
+        ],
+        [
+          "PU24",
+          "PU25",
+          "PU26",
+          "PU27"
+        ]
+      ]
+    }
+  },
+  "aegis": {
+    "name": "Aegis",
+    "recipe": {
+      "time": {
+        "start": "2019-11-01",
+        "end": "2019-12-01"
+      },
+      "count": 617,
+      "traits": [
+
+      ]
+    }
+  },
+  "meowfoolest": {
+    "name": "Meowfoolest",
+    "recipe": {
+      "time": {
+        "start": "2020-10-24",
+        "end": "2020-10-31"
+      },
+      "count": 254,
+      "traits": [
+        "liger",
+        "shale",
+        "PU30",
+        "daemonwings"
+      ]
+    }
+  },
+  "meowfool": {
+    "name": "Meowfool",
+    "recipe": {
+      "time": {
+        "start": "2020-10-24",
+        "end": "2020-10-31"
+      },
+      "count": 388,
+      "traits": [
+        "shale",
+        "daemonwings",
+        [
+          "PU28",
+          "PU29"
+        ]
+      ]
+    }
+  },
+  "meownificent": {
+    "name": "Meownificent",
+    "recipe": {
+      "time": {
+        "start": "2020-10-24",
+        "end": "2020-10-31"
+      },
+      "count": 260,
+      "traits": [
+        "liger",
+        "shale",
+        "PU30",
+        [
+          "WE00",
+          "WE01",
+          "WE02",
+          "WE03",
+          "WE04",
+          "WE05",
+          "WE06",
+          "WE07",
+          "WE08",
+          "WE09",
+          "WE10",
+          "WE11",
+          "WE12",
+          "WE13",
+          "WE14",
+          "WE15"
+        ]
+      ]
+    }
+  },
+  "meowthulhu": {
+    "name": "Meowthulhu",
+    "recipe": {
+      "time": {
+        "start": "2020-10-24",
+        "end": "2020-10-31"
+      },
+      "count": 950,
+      "traits": [
+        "daemonwings",
+        [
+          "PU28",
+          "PU29",
+          "PU30"
+        ]
+      ]
+    }
+  },
+  "meownique": {
+    "name": "Meownique",
+    "recipe": {
+      "time": {
+        "start": "2020-10-24",
+        "end": "2020-10-31"
+      },
+      "count": 557,
+      "traits": [
+        "shale",
+        [
+          "PU28",
+          "PU29"
+        ],
+        [
+          "WE00",
+          "WE01",
+          "WE02",
+          "WE03",
+          "WE04",
+          "WE05",
+          "WE06",
+          "WE07",
+          "WE08",
+          "WE09",
+          "WE10",
+          "WE11",
+          "WE12",
+          "WE13",
+          "WE14",
+          "WE15"
+        ]
       ]
     }
   }

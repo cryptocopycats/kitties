@@ -60,9 +60,12 @@ Example - All 12 Trait Types with 32 Traits - [`traits.json`](https://raw.github
 ```
 
 
+
 ## fancies.json
 
-Example - All Fancy Cats (Normal, Exclusive, Special Edition) with Trait Recipes, Max Limits, IDs, Time Windows, and More - [`fancies.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/fancies.json):
+Example - All Fancy Cats (Normal, Exclusive, Special Edition) with Trait Recipes, Max Limits, IDs, Time Windows, and More - [`fancies.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/fancies.json),
+[`exlusives.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/exclusives.json)
+[`special-editions.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/special-editions.json):
 
 ``` json
 {
@@ -138,7 +141,9 @@ Note: The JSON files get (auto-)generated using the kittyverse library and datas
 edit the JSON files but the source text files in the kittyverse repo** e.g.:
 
 - Trait Types and Traits in [`/kittyverse/../traits.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/traits.rb)
-- Fancy Cats (Exclusives, Special Editions, etc.) in [`/kittyverse/../fancies.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/fancies.rb)
+- Fancy Cats (Exclusives, Special Editions, etc.) in [`/kittyverse/../fancies.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/fancies.rb),
+[`exclusives.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/exclusives.rb),
+[`special_editions.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/special_editions.rb)
 - Purrstige Cattributes in [`/kittyverse/../purrstiges.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/purrstiges.rb)
 
 

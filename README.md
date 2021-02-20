@@ -56,7 +56,7 @@ For more see [**cattributes.csv »**](cattributes.csv)
 Datasets include:
 
 - [`traits.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/traits.json) - all 12 trait types with 32 traits
-- [`fancies.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/fancies.json) - all fancy cats (normal, exclusive, special edition) with trait recipes, max limits, IDs, time windows, and more
+- [`fancies.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/fancies.json), [`exclusives.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/exclusives.json), [`special-editions.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/special-editions.json) - all fancy cats (normal, exclusive, special edition) with trait recipes, max limits, IDs, time windows, and more
 - [`purrstiges.json`](https://raw.githubusercontent.com/cryptocopycats/kitties/master/kittyverse.json/purrstiges.json) - all purrstige cattributes with trait recipes, time windows, and more
 
 

@@ -1,0 +1,172 @@
+{
+  "frostymcwhiskers": {
+    "name": "Frosty McWhiskers",
+    "date": "2020-12-14",
+    "specialedition": {
+      "limit": 104
+    }
+  },
+  "fannie": {
+    "name": "Fannie",
+    "date": "2020-12-14",
+    "specialedition": {
+      "limit": 58
+    }
+  },
+  "algie": {
+    "name": "Algie",
+    "date": "2020-10-29",
+    "specialedition": {
+      "limit": 179
+    }
+  },
+  "eddie": {
+    "name": "Eddie",
+    "date": "2020-09-03",
+    "specialedition": {
+      "limit": 110
+    }
+  },
+  "marty": {
+    "name": "Marty",
+    "date": "2020-09-01",
+    "specialedition": {
+      "limit": 188
+    },
+    "desc": "Collaboration with Muse"
+  },
+  "pandora": {
+    "name": "Pandora",
+    "date": "2020-07-31",
+    "specialedition": {
+      "limit": 50
+    },
+    "desc": "CryptoKitty Box Support"
+  },
+  "holli": {
+    "name": "Holli",
+    "date": "2020-07-03",
+    "specialedition": {
+      "limit": 59
+    }
+  },
+  "kikuyu": {
+    "name": "Kikuyu",
+    "date": "2020-06-13",
+    "specialedition": {
+      "limit": 263
+    },
+    "desc": "For Hunter+Zelig+Bodhi"
+  },
+  "flowtron": {
+    "name": "Flowtron",
+    "date": "2020-05-21",
+    "specialedition": {
+      "limit": 303
+    },
+    "desc": "Exchange on Flow Fancy Set"
+  },
+  "catterina": {
+    "name": "Catterina",
+    "date": "2020-05-13",
+    "specialedition": {
+      "limit": 100
+    },
+    "desc": "Momo Wang"
+  },
+  "negabillie": {
+    "name": "Nega Billie",
+    "date": "2020-04-27",
+    "specialedition": {
+      "limit": 68
+    }
+  },
+  "carl": {
+    "name": "Carl",
+    "date": "2019-08-20",
+    "specialedition": {
+      "limit": 40
+    }
+  },
+  "alice": {
+    "name": "Alice",
+    "date": "2019-08-23",
+    "specialedition": {
+      "limit": 88
+    }
+  },
+  "kitt-e": {
+    "name": "KITT-E",
+    "date": "2019-05-10",
+    "specialedition": {
+      "limit": 500
+    },
+    "desc": "Dapper (Crypto Contract) Wallet Promotion Cat"
+  },
+  "sparkles": {
+    "name": "Sparkles",
+    "date": "2019-04-10",
+    "specialedition": {
+      "limit": 100
+    },
+    "desc": "Freebie for CryptoKitties Community Events"
+  },
+  "aeoncat": {
+    "name": "Aeoncat",
+    "specialedition": {
+      "time": {
+        "start": "2019-01-17",
+        "end": "2019-01-28"
+      },
+      "limit": 380
+    },
+    "desc": "Goddess Aeona - Goddess of Nature - Gods Unchained Promotion"
+  },
+  "catzy": {
+    "name": "Catzy",
+    "date": "2018-12-31",
+    "specialedition": {
+      "limit": 10,
+      "ids": [
+        1137653,
+        1137654,
+        1137655,
+        1137656,
+        1137657,
+        1137658,
+        1137659,
+        1137660,
+        1137661,
+        1137662
+      ]
+    },
+    "desc": "Changpeng \"CZ\" Zhao - CEO of Binance - Top 10 Blockchain Influencer of the Year 2018 by CoinDesk"
+  },
+  "purremyallaire": {
+    "name": "Purremy Allaire",
+    "date": "2018-12-31",
+    "specialedition": {
+      "limit": 10,
+      "ids": [
+        1137663,
+        1137664,
+        1137665,
+        1137666,
+        1137667,
+        1137668,
+        1137669,
+        1137670,
+        1137671,
+        1137672
+      ]
+    },
+    "desc": "Jeremy Allaire - Top 10 Blockchain Influencer of the Year 2018 by CoinDesk"
+  },
+  "lilbub": {
+    "name": "Lil Bub Ub Bub (BUB)",
+    "date": "2018-11-13",
+    "specialedition": {
+      "limit": 500
+    }
+  }
+}
