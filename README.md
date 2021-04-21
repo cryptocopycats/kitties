@@ -9,6 +9,7 @@
 Yes, Dapper Labs - the $7.5 billion dollar CryptoKitties gambling operator & promotor - falesly (or is that fraudulently?) 
 claiming it's a "video game with cute-little cartoon cats that you own 100%" - 
 censors this author's public service message. Remember - I do not get paid for updating the datasets here.
+In response to continue posting I've opened-up a new dev channel **[r/CryptoKittiesDev](https://old.reddit.com/r/CryptoKittiesDev/)**. Join us.
 
 ---
 
@@ -125,4 +126,4 @@ Use it as you please with no restrictions whatsoever.
 
 ## Questions? Comments?
 
-Post them on the [cryptokitties reddit](https://www.reddit.com/r/cryptokitties). Thanks.
+Post them on the [CryptoKittiesDev reddit](https://old.reddit.com/r/CryptoKittiesDev). Thanks.
