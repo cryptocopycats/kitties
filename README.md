@@ -1,3 +1,5 @@
+
+
 ---
 
 **A message from the CryptoKitties makers:**
@@ -9,6 +11,7 @@ claiming it's a "video game with cute-little cartoon cats that you own 100%" -
 censors this author's public service message. Remember - I do not get paid for updating the datasets here.
 
 ---
+
 
 # (Crypto) Kitties on the Blockchain
 
